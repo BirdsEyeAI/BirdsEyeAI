@@ -1,11 +1,12 @@
-<h1> 👋 Hi, I’m Jose! Welcome to my project repo! </h1>
+<h1> 👋 Hi! Welcome to my project repo! </h1>
 
-🎡 I’m a Seattle based Software Engineer and Data Scientist specializing in Natural Language Processing and Large Language Models.
+<h2> Background </h2>
+🎡 I’m Jose, a Seattle based Software Engineer and Data Scientist specializing in Natural Language Processing and Large Language Models. I've built this repo to showcase some of my work using AI, with a goal to demonstrate how businesses can leverage cutting-edge technologies to address common business challenges and connect with their audiences. 
 
-🔎 I love finding innovative ways to use AI to discover the hidden stories within datasets that can help businesses connect with their audiences. 
+<h2> What am I working on presently?</h2>
+💻 I’m currently exploring use cases for implementing modern RAG architecture to optimize LLM output in cloud-first environments (AWS). 
 
-💻 I’m currently working on projects that use modern RAG architecture to optimize LLM output in cloud-first environments (AWS). 
-
+<h2> Let's connect!</h2>
 👯 I’m looking to collaborate on data-driven projects that leverage AI to transform industries and push the envelope of innovation.
 
 👀 Please take a look at some of my current work pinned on my page. Thanks for visiting!
