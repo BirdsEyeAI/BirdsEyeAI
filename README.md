@@ -1,4 +1,4 @@
-👋 Hi, I’m Jose! Welcome to my project repo!
+<h1> 👋 Hi, I’m Jose! Welcome to my project repo! </h1>
 
 🎡 I’m a Seattle based Software Engineer and Data Scientist specializing in Natural Language Processing and Large Language Models.
 
