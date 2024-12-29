@@ -7,12 +7,13 @@ I’m Jose, a Seattle based Software Engineer and Data Scientist specializing in
 
 <h2>:fire: What am I passionate about?</h2>
 
-<h2> What am I working on presently?</h2>
+<h2>:construction_worker: What am I working on presently?</h2>
 💻 I’m currently exploring use cases for implementing modern RAG architecture to optimize LLM output in cloud-first environments (AWS). 
 
 <h2> Let's connect!</h2>
 👯 I’m looking to collaborate on data-driven projects that leverage AI to transform industries and push the envelope of innovation.
 
+:thought_balloon:
 
 👀 Please take a look at some of my current work pinned on my page. Thanks for visiting!
 
