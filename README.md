@@ -15,7 +15,7 @@ I’m Jose, a Seattle based Software Engineer and Data Scientist specializing in
 <ul>ExpressJS</ul>
 
 <h2>:fire: What am I passionate about?</h2>
-I'm passionate about open-source technologies and leveraging AI to connect people. My work revolves around creating innovative user-centric platforms that foster genuine connections between people. 
+I'm passionate about open-source technologies and leveraging AI to connect people. My work revolves around creating innovative user-centric platforms that foster genuine connections between people and push the envelope of innovation. 
 
 <h2>:construction_worker: What am I working on presently?</h2>
 💻 I’m currently exploring use cases for implementing modern RAG architecture to optimize LLM output in cloud-first environments (AWS). 
