@@ -1,7 +1,7 @@
 <h1> 👋 Hi! Welcome to my project repo! </h1>
 
 <h2> Background </h2>
-I’m Jose, a Seattle based Software Engineer and Data Scientist specializing in Natural Language Processing and Large Language Models. I've built this repo to showcase some of my work using AI, with a goal to demonstrate how businesses can leverage cutting-edge technologies to address common business challenges and better connect with their audiences. 
+I’m Jose, a Seattle based Software Engineer and Data Scientist specializing in Natural Language Processing and Large Language Models. I've built this repo to showcase some of my work using AI, with the goal of demonstrating innovative ways for businesses to leverage cutting-edge technologies to address common challenges and better connect with their audiences. 
 
 <h2>:muscle: Skills & Specializations: </h2>
 <ul>Python</ul>
