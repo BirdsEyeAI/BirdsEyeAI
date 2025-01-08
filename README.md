@@ -4,15 +4,15 @@
 I’m Jose, a Seattle based Software Engineer and Data Scientist specializing in Natural Language Processing and Large Language Models. I've built this repo to showcase some of my work using AI, with the goal of demonstrating innovative ways for businesses to leverage cutting-edge technologies to address common challenges and better connect with their audiences. 
 
 <h2>:muscle: Skills & Specializations: </h2>
-*Python
-*Pytorch
-*TensorFlow
-*Transformers
-*Flask
-*JavaScript/TypeScript
-*ReactJS
-*NodeJS
-*ExpressJS
+Python
+Pytorch
+TensorFlow
+Transformers
+Flask
+JavaScript/TypeScript
+ReactJS
+NodeJS
+ExpressJS
 
 <h2>:fire: What am I passionate about?</h2>
 I'm passionate about open-source technologies and leveraging AI to connect people. My work revolves around creating innovative user-centric platforms that foster genuine connections between people and push the envelope of innovation. 
