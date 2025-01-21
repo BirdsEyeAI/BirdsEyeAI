@@ -19,7 +19,7 @@ ExpressJS
 I'm passionate about open-source technologies and leveraging AI to connect people. My work revolves around creating innovative user-centric platforms that foster genuine connections between people and push the envelope of innovation. 
 
 <h2>:construction_worker: What am I working on presently?</h2>
-💻 I’m currently exploring use cases for implementing modern RAG architecture to optimize LLM output in cloud-first environments (AWS). 
+💻 I’m currently exploring use cases for implementing modern RAG architecture to optimize LLM output in cloud-first environments. 
 
 <h2> Let's connect!</h2>
 👯 I’m looking to collaborate on data-driven projects that leverage AI to transform industries and push the envelope of innovation.
