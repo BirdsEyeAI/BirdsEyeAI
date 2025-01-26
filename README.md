@@ -22,7 +22,7 @@ I'm passionate about open-source technologies and leveraging AI to connect peopl
 💻 I’m currently exploring use cases for implementing modern RAG architecture to optimize LLM output in cloud-first environments. 
 
 <h2> Let's connect!</h2>
-👯 I’m looking to collaborate on data-driven projects that leverage AI to transform industries and push the envelope of innovation.
+👯 I’m looking to collaborate on projects that leverage AI to reimagine workflows and innovate workspaces. 
 
 👀 Please take a look at some of my current work pinned on my page. Thanks for visiting!
 
