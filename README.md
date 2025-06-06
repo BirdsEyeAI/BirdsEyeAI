@@ -16,12 +16,13 @@ I’m Jose, a Seattle-based Software Engineer and Data Scientist specializing in
 -ReactJS
 -NodeJS
 -ExpressJS
+-NextJS
 
 <h2>:fire: What am I passionate about?</h2>
-I'm passionate about open-source technologies and leveraging AI to connect people. My work revolves around creating innovative user-centric platforms that foster genuine connections between people and push the envelope of innovation. 
+I'm passionate about open-source technologies and leveraging AI to drive meaningful connections between people and the technologies they love. My work revolves around creating innovative user-centric platforms that prioritize user-experiences through real-world solutions. 
 
 <h2>:construction_worker: What am I working on presently?</h2>
-💻 I’m currently exploring use cases for implementing modern RAG architecture to optimize LLM output in cloud-first environments and building CI/CD pipelines. 
+💻 I'm currently learning about cutting-edge agentic AI techniques and creating tools that automate repetitive tasks for document workflows. 
 
 <h2> Let's connect!</h2>
 👯 I’m looking to collaborate on projects that leverage AI to reimagine workflows and innovate workspaces. 
