@@ -21,7 +21,9 @@ I’m Jose, a Seattle-based Software Engineer and Data Scientist specializing in
 <h2>:fire: What am I passionate about?</h2>
 I'm passionate about open-source technologies and leveraging AI to drive meaningful connections between people and the technologies they love. 
 
+
 My work revolves around creating innovative user-centric platforms that prioritize user-experiences through real-world solutions. 
+
 
 I strive to create tools that not only serve useful purposes, but that do so in a way that emphasize the priorities of the humans that use them. 
 
