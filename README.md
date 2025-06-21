@@ -19,7 +19,7 @@ I’m Jose, a Seattle-based Software Engineer and Data Scientist specializing in
 -NextJS
 
 <h2>:fire: What am I passionate about?</h2>
-I'm passionate about open-source technologies and leveraging AI to drive meaningful connections between people and the technologies they love. 
+I'm passionate about open-source technologies and finding innovative ways to leverage AI to drive meaningful connections between people and the technologies they love. 
 
 
 My work revolves around creating innovative user-centric platforms that prioritize user-experiences through real-world solutions. 
